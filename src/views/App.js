@@ -3,6 +3,7 @@ import './App.scss';
 import MyComponent from './Example/MyComponent';
 
 // 2 components: class component / function component (function, arrow)
+// using JSX
 
 function App() {
   return (
