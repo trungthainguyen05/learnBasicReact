@@ -1,0 +1,6 @@
+# init react app
+npx create-react-app .
+
+# install scss
+npm install sass
+
